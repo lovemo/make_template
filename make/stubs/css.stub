@@ -1,0 +1,47 @@
+/*+----------------------------------------------------------------------*/
+/*| xxx                                                                */
+/*+----------------------------------------------------------------------*/
+/*| Copyright (c) 2013年 xxx科技有限公司. All rights reserved.          */
+/*+----------------------------------------------------------------------*/
+/*| Author: {%Author%}                                                   */
+/*+----------------------------------------------------------------------*/
+/*| Date: : {%Date%}                                                     */
+/*+----------------------------------------------------------------------*/
+/*| Time: : {%Time%}                                                     */
+/*+----------------------------------------------------------------------*/
+
+/** 清除内外边距 **/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, div, /* structural elements 结构元素 */
+dl, dt, dd, ul, ol, li, /* list elements 列表元素 */
+pre, /* text formatting  elements 文本格式元素 */
+form, fieldset, legend, button, input, textarea, /* form elements 表单元素 */
+th, td /* table elements 表格元素 */ {
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+}
+
+/******************   通用样式  ******************/
+
+
+
+/****************** 屏幕适配样式 ******************/
+
+/*小屏手机*/
+@media only screen and (max-width:349px) {
+
+}
+
+/*普通ipad*/
+@media only screen and (min-width:600px) and (max-width:960px) {
+
+}
+
+/*ipad pro*/
+@media only screen and (min-width:960px) {
+
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{%Title%}</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="format-detection" content="telephone=no,email=no">
+
+    <!------------------------------------------------------------------------->
+    <!--css-------------------------------------------------------------------->
+    <!------------------------------------------------------------------------->
+
+    <link rel="stylesheet" type="text/css" href="/static/{%moduleName%}/css/index.css">
+
+    <!------------------------------------------------------------------------->
+    <!--js--------------------------------------------------------------------->
+    <!------------------------------------------------------------------------->
+
+    <script type="text/javascript" src="/static/{%moduleName%}/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="/static/{%moduleName%}/js/common.js"></script>
+    <script type="text/javascript" src="/static/{%moduleName%}/js/cookie.js"></script>
+
+</head>
+<body>
+
+</body>
+</html>
+
+<!------------------------------------------------------------------------->
+<!--js--------------------------------------------------------------------->
+<!------------------------------------------------------------------------->
+
+<script type="text/javascript" language='javascript'>
+
+$(function () {
+    // something
+
+})
+
+</script>
