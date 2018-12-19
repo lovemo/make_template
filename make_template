@@ -5,12 +5,12 @@
  */
 header('content-type:text/html;charset=utf-8');
 
-require 'yw_base.php';
+require_once 'yw_base.php';
 
-require __DIR__ . '/' . 'Validator.php';
-require __DIR__ . '/' . 'Dispatcher.php';
-require __DIR__ . '/' . 'Prompter.php';
-require __DIR__ . '/' . 'App.php';
+require_once __DIR__ . '/' . 'Validator.php';
+require_once __DIR__ . '/' . 'Dispatcher.php';
+require_once __DIR__ . '/' . 'Prompter.php';
+require_once __DIR__ . '/' . 'App.php';
 
 
 // 验证参数
