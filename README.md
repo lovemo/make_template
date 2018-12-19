@@ -1,2 +1,2 @@
 # make_template
-自动生成模板php、html、css、js规范化文件
+命令自动化根据make/stubs中的模板文件生成php_controller/php_model/html/css/js规范化文件代码
