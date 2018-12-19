@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 /**
- * 命令自动化根据make/stubs中的模板文件生成php/html/css/js规范化文件代码
+ * 命令自动化根据make/stubs中的模板文件生成php_controller/php_model/html/css/js规范化文件代码
  */
 header('content-type:text/html;charset=utf-8');
 
